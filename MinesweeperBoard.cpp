@@ -8,10 +8,7 @@
 
 
 
-void intro()
-{
-    std::cout<<"Konrad Tokarz 41\n";
-}
+
 MinesweeperBoard::MinesweeperBoard(int width, int height, GameMode mode){
 
     this->width=width;
